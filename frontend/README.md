@@ -1,16 +1,74 @@
-# React + Vite
+## Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This project was developed as part of a technical assignment provided by Botmakers Pvt Ltd for the Full Stack Developer Intern role.
 
-Currently, two official plugins are available:
+The application is built using React, Vite, and Tailwind CSS, focusing on creating a modern, responsive, and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
 
-## React Compiler
+* React.js
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the Oxlint configuration
+* Responsive UI design
+* Modern and clean user interface
+* Fast development environment with Vite
+* Component-based architecture using React
+* Mobile-friendly layout
+* Optimized styling with Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Rohitkadam6848/BotMakers_intern_task.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd frontend
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Preview Production Build
+
+```bash
+npm run preview
+```
+
+## Assignment Information
+
+This project was completed as a technical assessment task assigned by Botmakers Pvt Ltd. The objective was to develop a functional and responsive web application using modern frontend technologies while following clean coding practices and maintaining an intuitive user experience.
+
+## Live Demo
+
+https://botmakers-intern-task.onrender.com/
+
+## Author
+
+**Rohit Kadam**
+
+* GitHub: https://github.com/Rohitkadam6848
+* LinkedIn: https://www.linkedin.com/in/rohit-kadam-b42033339/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8hQW4YzDSM2IfVH4EBASDg%3D%3D
